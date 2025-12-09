@@ -1,0 +1,13 @@
+# Pastas de compilação
+[Bb]in/
+[Oo]bj/
+
+# Pacotes e IDE
+**/packages/
+.vs/
+.vscode/
+*.suo
+*.user
+*.log
+*.tmp
+
